@@ -1,0 +1,75 @@
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"cormorant"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color has-cormorant-font-family"><a href="https://ariamarotta.com/books/">Books</a></h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":97,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://ariaemery.files.wordpress.com/2023/09/img_7085-1.jpg" alt="" class="wp-image-97"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"cormorant"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color has-cormorant-font-family"><a href="https://ariamarotta.com/about-2/">About</a></h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":95,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://ariaemery.files.wordpress.com/2023/09/about.jpg?w=669" alt="" class="wp-image-95"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"cormorant"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color has-cormorant-font-family"><a href="http://ariamarotta.com/arias-art/">Art</a></h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":107,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://ariaemery.files.wordpress.com/2023/09/art-2.jpg?w=628" alt="" class="wp-image-107"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"cormorant"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color has-cormorant-font-family"><a href="http://ariamarotta.com/news-and-events/">News</a></h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"align":"center","id":396,"width":"256px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://ariaemery.files.wordpress.com/2023/09/news-1.jpg?w=792" alt="" class="wp-image-396" style="width:256px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"cormorant"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color has-cormorant-font-family"><a href="http://ariamarotta.com/contact/">Contact</a></h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"align":"center","id":394,"width":"257px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://ariaemery.files.wordpress.com/2023/09/contact-1.jpg?w=791" alt="" class="wp-image-394" style="width:257px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"cormorant"} -->
+<h2 class="wp-block-heading has-primary-color has-text-color has-link-color has-cormorant-font-family"><a href="http://ariamarotta.com/resources/">Resources</a></h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":391,"width":"259px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://ariaemery.files.wordpress.com/2023/09/resources.jpg?w=794" alt="" class="wp-image-391" style="width:259px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
